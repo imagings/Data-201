@@ -11,9 +11,9 @@
 
 I'm a Data Science major at Montgomery College, currently working through coursework and planning to transfer to UMD.
 
-#### A Quick Note
+#### Why Data Science
 
-This file demonstrates the required Markdown formatting elements for the Week 1 assignment in Data 201.
+I feel like data science is a safe career option that can be used in many different fields that also aligns with my interest. 
 
 ---
 
