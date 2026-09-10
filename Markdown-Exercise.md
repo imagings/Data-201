@@ -19,9 +19,9 @@ I feel like data science is a safe career option that can be used in many differ
 
 ## Emphasis
 
-This sentence has **bold text** to highlight something important.
+**This sentence is in bold to highlight something important.**
 
-This sentence has *italic text* to add subtle emphasis.
+*This sentence is in italic text to add subtle emphasis.*
 
 ---
 
@@ -34,7 +34,7 @@ This sentence has *italic text* to add subtle emphasis.
 3. Added this Markdown file
 4. Committed the changes
 
-### Unordered List — Tools I'm Learning This Semester
+### Unordered List: Tools I'm Learning This Semester
 
 - Git and GitHub
 - Markdown
@@ -45,7 +45,7 @@ This sentence has *italic text* to add subtle emphasis.
 
 ## Links
 
-Check out the official [Markdown Guide](https://www.markdownguide.org)
+[Kirby and The World Beyond](https://www.youtube.com/watch?v=tUp_l5taUeY)
 
 ---
 
