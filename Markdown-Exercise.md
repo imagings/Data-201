@@ -51,7 +51,8 @@ Check out the official [Markdown Guide](https://www.markdownguide.org) for more 
 
 ## Images
 
-![A scenic mountain view](https://images.unsplash.com/photo-1506905925346-21bda4d32df4)
+![My favorite video game character](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/db6a22ea-deee-4811-a51d-d991bc61d885" />
+)
 
 ---
 
