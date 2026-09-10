@@ -45,7 +45,7 @@ This sentence has *italic text* to add subtle emphasis.
 
 ## Links
 
-Check out the official [Markdown Guide](https://www.markdownguide.org) for more syntax reference.
+Check out the official [Markdown Guide](https://www.markdownguide.org)
 
 ---
 
@@ -63,7 +63,7 @@ Check out the official [Markdown Guide](https://www.markdownguide.org) for more 
 
 ## Code & Code Block
 
-Here's an example of code: use print() to display output in Python.
+Here's an example of code: use print to display output in Python.
 
 Here's a code block:
 
@@ -98,6 +98,6 @@ greet("world")
 
 ## Footnote
 
-Markdown is a lightweight markup language that converts plain text into formatted HTML.[^1]
+Markdown is a markup language that turns plain text into formatted HTML.[^1]
 
 [^1]: Markdown was created by John Gruber in 2004 to make writing for the web easier and more readable in its raw form.
