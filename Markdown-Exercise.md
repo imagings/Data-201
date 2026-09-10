@@ -51,8 +51,7 @@ Check out the official [Markdown Guide](https://www.markdownguide.org) for more 
 
 ## Images
 
-![My favorite video game character](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/db6a22ea-deee-4811-a51d-d991bc61d885" />
-)
+![My favorite video game character](https://raw.githubusercontent.com/imagings/Data-201/refs/heads/main/kirby.jpg)
 
 ---
 
@@ -62,7 +61,7 @@ Check out the official [Markdown Guide](https://www.markdownguide.org) for more 
 
 ---
 
-## Inline Code & Code Block
+## Code & Code Block
 
 Here's an example of code: use print() to display output in Python.
 
