@@ -67,12 +67,12 @@ Here's an example of code: use print to display output in Python.
 
 Here's a code block:
 
-\`\`\`python
+```python
 def greet(name):
     print(f"Hello, {name}!")
 
 greet("world")
-\`\`\`
+```
 
 ---
 
