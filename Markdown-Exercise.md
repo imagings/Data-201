@@ -78,12 +78,11 @@ greet("world")
 
 ## Table
 
-| Language   | Best For          | Difficulty |
-|------------|-------------------|------------|
-| Python     | Data Science, ML  | Easy       |
-| SQL        | Databases         | Easy       |
-| R          | Statistics        | Medium     |
-| JavaScript | Web Development   | Medium     |
+| Language   | Best For          | 
+|------------|-------------------|
+| Python     | Data Science, ML  |
+| SQL        | Databases         | 
+| R          | Statistics        | 
 
 ---
 
